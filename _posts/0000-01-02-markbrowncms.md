@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our Markbrowncms!"
 ---
-This is Slide Deck for markbrowncms
+This is Great Slide Deck Baby
 Use the left arrow to go back!
